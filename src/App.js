@@ -52,7 +52,7 @@ function App() {
         <button className='btn'>Add</button>
       </form>
       <h1>Todo List</h1>
-
+      {todos.length === 0 && 'No Todos'}
       <ul className='list'>
       {todos.map(todo => {
        return <li key={todo.id}>
