@@ -16,7 +16,7 @@ The project is a simple todo list application built using React. It allows users
 
 ## Features
 
-The main features of this meme generator project include:
+The main features of this todo project include:
 
 * Add new todos to the list
 * Mark todos as completed or incomplete
