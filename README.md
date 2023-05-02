@@ -1,4 +1,4 @@
-# Meme Generator
+# Todo React App
 
 The project is a simple todo list application built using React. It allows users to create a list of tasks, mark them as complete or incomplete, and delete them from the list. The application also stores the todos in local storage, so they persist across browser sessions.
 
