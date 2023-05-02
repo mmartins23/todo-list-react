@@ -3,8 +3,7 @@
 The project is a simple todo list application built using React. It allows users to create a list of tasks, mark them as complete or incomplete, and delete them from the list. The application also stores the todos in local storage, so they persist across browser sessions.
 
 
-
-[Launch Live Preview](https://lucky-rugelach-9d52a0.netlify.app/)
+[Launch Live Preview](https://sparkling-klepon-04f31f.netlify.app/)
 
 ## Table of Contents
 
