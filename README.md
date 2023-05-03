@@ -11,6 +11,7 @@ The project is a simple todo list application built using React. It allows users
 - [Documentation](#documentation)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Summary](#summary)
 - [License](#license)
 - [Contact](#contact)
 
@@ -109,7 +110,8 @@ This function toggles the **`completed`** status of a todo item in the **`todos`
 
 This function removes a todo item from the **`todos`** state. It uses the **`filter`** method to return a new array that includes all the todo items except for the one with the **`id`** passed as an argument.
 ***
-### Summary
+
+## Summary
 
 1. The first file you have is **`App.js`**. It is the main component that is being exported as the default export of the module. This component renders the **`Header`** and **`Meme`** components inside a **`div`** tag.
 2. The **`Meme`** component is defined in the second file, which imports **`React`**, **`useState`** and **`useEffect`** from the **`react`** module. This component sets up two **`useState`** hooks. One for **`meme`**, which is an object with **`topText`**, **`bottomText`**, and **`randomImage`** properties. The second hook is for **`allMemes`**, which is initialized to an empty array.
